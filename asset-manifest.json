@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techsumcircle/hipship-build.git/static/css/main.824fca15.css",
+    "main.js": "/techsumcircle/hipship-build.git/static/js/main.591c16c5.js",
+    "static/media/profile.jpg": "/techsumcircle/hipship-build.git/static/media/profile.f93cf7120586845ceff9.jpg",
+    "static/media/hipship.png": "/techsumcircle/hipship-build.git/static/media/hipship.ffd17550187d63bc8759.png",
+    "index.html": "/techsumcircle/hipship-build.git/index.html",
+    "main.824fca15.css.map": "/techsumcircle/hipship-build.git/static/css/main.824fca15.css.map",
+    "main.591c16c5.js.map": "/techsumcircle/hipship-build.git/static/js/main.591c16c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824fca15.css",
+    "static/js/main.591c16c5.js"
+  ]
+}
